@@ -3,8 +3,11 @@ This project provides a comprehensive business analytics evaluation of the Elect
 
 Key Dataset Statistics:
 Total Observations: 279,661 rows
+
 Temporal Scope: 2010 – 2026
+
 Primary Source: Washington State Department of Licensing (DOL)
+
 Market Leader: Tesla (50.71% market share)
 
 📂 Data Methodology
