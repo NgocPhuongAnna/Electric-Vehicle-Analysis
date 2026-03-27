@@ -13,9 +13,13 @@ Market Leader: Tesla (50.71% market share)
 📂 Data Methodology
 Tools & Technologies Used
 Python (Pandas & Matplotlib): Used for advanced ETL (Extract, Transform, Load) processes, cleaning the 279,661-row dataset, and handling complex model-year lags.
+
 Power BI: Used to build the interactive analytics suite, including:
+
 Overview Trends: Use line and stacked column chart to overview trend through year model and year over year growth.
+
 Market Share Treemaps: Visualizing brand dominance (Tesla vs. Competitors).
+
 Geographic Heatmaps: Mapping adoption density across Washington's 39 counties.
 
 <img width="1349" height="727" alt="image" src="https://github.com/user-attachments/assets/1e013ed3-4080-45f4-a911-a823f68f341f" />
