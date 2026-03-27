@@ -31,11 +31,13 @@ Infrastructure Limitations: A sparse network of charging stations restricted the
 High Barriers to Entry: The high cost of battery technology resulted in retail prices significantly higher than those of conventional vehicles, making mainstream consumers hesitant to adopt this new vehicle type.
 Limited Model Availability: A lack of model diversity compelled consumers to seek alternative options, specifically vehicles powered by internal combustion engines (ICE).
 
-2. The 2021 Tipping Point
+The 2021 Tipping Point
+
 The year 2021 served as a key growth catalyst for the entire industry. Data reveals a dramatic surge in market share, leaping from 8.59% in 2020 to 55.19% in 2021.
 Growth Drivers: This shift was closely tied to the stabilization of supply chains following the pandemic, coupled with the launch of high-demand EV segments (e.g., SUVs and light-duty pickup trucks). Peak Performance: This growth trajectory peaked with the 2023 model year, setting a historic record with 60,219 registered vehicles.
 
-3. Analysis of Recent Volume Fluctuations (2024–2026)
+Analysis of Recent Volume Fluctuations (2024–2026)
+
 The chart illustrates a sharp decline in the volume of registered vehicles in 2024 (37,845 units) and the subsequent years.
 
 Data Reporting Lag: In the context of business reporting, this metric is classified as a "lagging indicator." Since the 2024–2026 models represent current offerings or upcoming releases, their registration data is still in the process of being processed and compiled.
