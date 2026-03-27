@@ -23,8 +23,10 @@ Market Share Treemaps: Visualizing brand dominance (Tesla vs. Competitors).
 Geographic Heatmaps: Mapping adoption density across Washington's 39 counties.
 
 <img width="1349" height="727" alt="image" src="https://github.com/user-attachments/assets/1e013ed3-4080-45f4-a911-a823f68f341f" />
-**Market Analysis: EV Adoption and Registration Trends
-**Executive Summary
+Market Analysis: EV Adoption and Registration Trends
+
+Executive Summary
+
 The Electric Vehicle (EV) market is undergoing a major transformation, shifting from a niche market (prior to 2020) to a phase of explosive growth (from 2021 to the present). Although early-stage EV adoption faced hurdles—such as limitations in infrastructure, vehicle technology, and energy consumption efficiency—the 2021–2023 period marked a significant expansion in both consumer demand and production output.
 Looking at the pre-2020 period, the annual number of registered EVs consistently remained below 10,000 units. This phase was characterized by:
 Infrastructure Limitations: A sparse network of charging stations restricted the operational range of EVs, confining their usage primarily to urban commuting.
